@@ -33,7 +33,7 @@ Installation Steps
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/ArtSello.git
+git clone https://github.com/Luser408/ArtSello.git
 cd ArtSello
 Install the dependencies:
 bash
@@ -72,4 +72,5 @@ Distributed under the MIT License. See LICENSE for more information.
 Contact
 Hamza khan
 hamza128482@gmail.com
-Project Link: https://github.com/yourusername/ArtSello
+Project Link: https://github.com/Luser408/ArtSello.git
+linkdin Link: https://www.linkedin.com/in/hamza-khan-8a6009230/
